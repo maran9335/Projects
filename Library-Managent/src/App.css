@@ -1,0 +1,40 @@
+/* body{
+  background-color: rgb(8, 8, 2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+padding: 15%;
+}
+.container{
+  padding: 10px;
+  border: 2px solid rgb(219, 35, 35,0.5);
+  width: 500px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.head{
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 20px;
+}
+input{
+  padding: 10px;
+  border: 10px;
+  border-radius: 10px;
+}
+input:hover{
+  background-color: gray;
+}
+input:focus{
+  background-color: blueviolet;
+  border: 0px;
+}
+ */
+
+
+
+
+
+
