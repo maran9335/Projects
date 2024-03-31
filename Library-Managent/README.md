@@ -76,6 +76,8 @@ npm start
 ![Screenshot (3685)](https://github.com/maran9335/Projects/assets/109018976/b303c07b-fe9d-4311-9e3e-7b561b701eeb)
 ### Edit/Update Book
 ![Screenshot (3686)](https://github.com/maran9335/Projects/assets/109018976/99cabd38-48ef-492c-bd1e-d39acda83468)
+## Update in Mongodb Database 
+![Screenshot (3688)](https://github.com/maran9335/Projects/assets/109018976/91339cbe-4fdd-4b5e-9188-ec3c2c9fa550)
 ## Successfully Added new Book
 ![Screenshot (3687)](https://github.com/maran9335/Projects/assets/109018976/01b67c12-2ff1-4fe1-82a1-5e5613a43676)
 
